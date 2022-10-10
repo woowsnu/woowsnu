@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **woowsnu/woowsnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Studying 📌
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Front%20And%20More&fontSize=60)
 
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+## Skill 🤸‍♀️
+
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white"/> <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=Redux&logoColor=white"/><br/><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=flat&logo=Django&logoColor=white"/><br/><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+
+## Studying 📚
+<img alt="Typescript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-092E20.svg?&style=flat&logo=Next.js&logoColor=white"/>
+
+![moonsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woowsnu&show_icons=true&theme=radical)
