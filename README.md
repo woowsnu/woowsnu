@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Studying 📚</h3>
 <p align="center">
-<img alt="Typescript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-092E20.svg?&style=flat&logo=Next.js&logoColor=white"/> <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=flat&logo=ReactQuery&logoColor=white"/> <img alt="Storybook" src ="https://img.shields.io/badge/Storybook-FF4785.svg?&style=flat&logo=Storybook&logoColor=white"/>
+<img alt="Typescript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-092E20.svg?&style=flat&logo=Next.js&logoColor=white"/> <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=flat&logo=ReactQuery&logoColor=white"/> 
+<!--   <img alt="Storybook" src ="https://img.shields.io/badge/Storybook-FF4785.svg?&style=flat&logo=Storybook&logoColor=white"/> -->
 </p>
 
 <p align="center">
