@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Front%20And%20More&fontSize=50)
 
@@ -26,9 +27,7 @@ Here are some ideas to get you started:
 <img alt="Typescript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-092E20.svg?&style=flat&logo=Next.js&logoColor=white"/> <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=flat&logo=ReactQuery&logoColor=white"/> 
 <!--   <img alt="Storybook" src ="https://img.shields.io/badge/Storybook-FF4785.svg?&style=flat&logo=Storybook&logoColor=white"/> -->
 </p>
+<br/><br/>
 
-<p align="center">
-
-![moonsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woowsnu&show_icons=true&theme=radical)
-
-</p>
+![moonsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woowsnu&show_icons=true&theme=transparent)
+</div>
